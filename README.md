@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Mohamed
+### Hi there 👋,
 #### Computer vision and AI safety 
 I'm Mohamed, a Machine Learning enthusiast who loves diving deep into the world of Computer Vision and exploring the intriguing challenges of adversarial attacks on ML models. I'm always on the lookout for the latest breakthroughs in AI, eager to learn, share, and apply new advancements in this ever-exciting field.
 
